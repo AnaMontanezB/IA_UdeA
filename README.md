@@ -6,4 +6,5 @@ Joanny Torres, CC 1152218692, Ingeiería electríca
 ## Datos
 los datos del proyecto fueron tomados de Kaggle y se llama Lifesnaps Fitbit dataset
 
-##Videos
+## Videos
+ENTREGA PROYECTO 2 --> https://www.youtube.com/watch?v=YiyJwZ_EgEA
