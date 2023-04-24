@@ -9,13 +9,15 @@ Los datos del proyecto fueron tomados de Kaggle y se llama Lifesnaps Fitbit data
 
 INSTRUCCIONES
 1. Correr la primera celda de los notebooks donde se instala kaggle en colab para poder adquirir los datos sin necesidad de ser subidos.
-    ! comando 1
 
     !pip install -q kaggle 
+    
 2. Es necesario que se ingrese en kaggle y se decargue el .jason para luego subirlo en colab. Para esto debe ingresar al siguiente link https://www.kaggle.com/settings/account debera tener creado previamente un usuario en kaggle. Luego en la sección de API selecciona la opción de crear nuevo fichero. 
 
 3. En la siguente celda se sube el archivo anteriormente creado y descargado.
+
     ! from google.colab import files
+    
     ! files.upload()
 
 4. Las siguientes celdas se hace la vusialización y exploración de datos. 
