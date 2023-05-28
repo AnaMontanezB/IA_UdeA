@@ -20,8 +20,9 @@ INSTRUCCIONES
     
     ! files.upload()
 
-4. Las siguientes celdas se hace la vusialización y exploración de datos. 
+4. Las siguientes celdas se hace la vusualización y exploración de datos. 
 
 
 ## Videos
 ENTREGA PROYECTO 2 --> https://www.youtube.com/watch?v=YiyJwZ_EgEA
+ENTREGA PROYECTO FINAL --> https://www.youtube.com/watch?v=2ktSUVHVQrk
